@@ -60,7 +60,7 @@ education:
 coursera:
    profileurl: https://www.coursera.org/account/accomplishments/verify/5N2AHV69JARF
    courses:
-    - title: Google Cloud Platform Fundamentals: Core Infrastructure
+    - title: Google Cloud Platform Fundamentals Core Infrastructure
       link: https://www.coursera.org/learn/gcp-fundamentals
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/31/8ffb301bf011e79fa2d5b154b6a30b/GCP-Fundamentals-Core-Infra.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&bg=000&fit=fill
       date: June 2018
