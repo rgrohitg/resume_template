@@ -1,0 +1,83 @@
+# Site settings
+title: Rohit Goldsmith
+twitter_username: RohitG
+name: Rohit Goldsmith
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/rgrohitg
+ - title: LinkedIn
+   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+
+#Any buzzword skills you want to include
+skills:
+ - Java 8
+ - SQL
+ - Spring Boot
+ - Microservices Architecture
+ - Openshift
+ - Maven
+ - Apache Camel
+ - JPA
+ - Hibernate
+ - Intro to Google Cloud Platform
+
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+
+
+#Work experience is required
+roles:
+ - title: Senior Software Developer
+   start: 2016
+   end: Ongoing
+   employer: GFT IT Consulting
+   description: Web apllication based on Microservices architecture and applications deployed on openshift .
+ - title: IT Analyst
+   start: 2016
+   end: 2014
+   employer: Tata Consultancy Services
+   description: description.........
+ - title: Software developer
+   start: 2014
+   end: 2011
+   employer: Tata Consultancy Services
+   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+
+#Education is required
+education:
+ - level: Bachelor of Engineering (B.Sc.)
+   date: 2003
+   subject: Computer Science
+   school: Siddaganga Institute of Technology Tumukur
+
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/account/accomplishments/verify/5N2AHV69JARF
+   courses:
+    - title: Google Cloud Platform Fundamentals: Core Infrastructure
+      link: https://www.coursera.org/learn/gcp-fundamentals
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/31/8ffb301bf011e79fa2d5b154b6a30b/GCP-Fundamentals-Core-Infra.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&bg=000&fit=fill
+      date: June 2018
+
+
+#List of interesting Github repo/projects to include - optional
+github:
+ -
+
+#Stackoverflow flair is optional
+stackoverflow:
+
+#Mobile apps section is optional
+apps:
+
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Java is the primary language used - and I am familiar with many of the languages features and quirks . <br/><br/>
+
